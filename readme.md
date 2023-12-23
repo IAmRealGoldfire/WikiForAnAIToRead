@@ -1,1 +1,1 @@
-go to the wiki, the entire point of this repo is the wiki
+[[Wiki]](https://github.com/IAmRealGoldfire/WikiForAnAIToRead/wiki)
